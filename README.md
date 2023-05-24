@@ -4,7 +4,7 @@
 
 # Links
 - 🔗 [Youtube Channel](https://www.youtube.com/channel/UC9_kma0SOd-oSe24gqpqqCA)
-- 🔗 [Support Server Link](https://discord.gg/twitchfollower)
+- 🔗 [Support Server Link](https://discord.gg/twitchfollow)
 
 
 # How it works
